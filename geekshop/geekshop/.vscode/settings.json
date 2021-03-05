@@ -1,7 +1,9 @@
 {
-    "python.pythonPath": "/home/mate/.pyenv/versions/3.8.6/envs/geekshop/bin/python",
+    "python.pythonPath": "/home/artem/.pyenv/versions/3.8.6/envs/geekshop/bin/python",
     "python.languageServer": "Pylance",
-    "python.experiments.optOutFrom": ["All"],
+    "python.experiments.optOutFrom": [
+        "All"
+    ],
     "editor.fontFamily": "'JetBrains Mono', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
     "editor.fontSize": 17,
     "terminal.integrated.fontSize": 17,
