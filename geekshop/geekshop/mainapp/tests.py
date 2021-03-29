@@ -1,3 +1,4 @@
+# смотри к 8 уроку в main
 from django.test import TestCase
 
 # Create your tests here.
